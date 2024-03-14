@@ -1,0 +1,1 @@
+# VNC-Installation-Script-SUSE
